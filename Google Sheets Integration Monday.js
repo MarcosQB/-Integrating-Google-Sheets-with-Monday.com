@@ -1,3 +1,11 @@
+O script foi construindo seguindo a documentação da própria Monday sobre sua API.
+https://developer.monday.com/api-reference/docs/getting-started-1
+
+
+
+
+
+
 function sellersGeral() {
 
   // Pegando a planilha

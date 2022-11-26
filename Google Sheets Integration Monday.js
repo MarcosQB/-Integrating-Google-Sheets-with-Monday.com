@@ -1,10 +1,10 @@
 O script foi construindo seguindo a documentação da própria Monday sobre sua API.
+Segue:
 https://developer.monday.com/api-reference/docs/getting-started-1
 
-
-
-
-
+O Script abaixo foi construido na IDE do Google Apps Script
+segue a documentação:
+https://developers.google.com/apps-script
 
 function sellersGeral() {
 

@@ -12,4 +12,7 @@
 * ######  A linguagem de programação utilizada foi a JavaScript;
 * ###### Para tratar e armazenados os dados foi utilizado uma planilha da Google
 
-#### [Confira o script clikando aqui!](https://github.com/MarcosQB/-Integrating-Google-Sheets-with-Monday.com/blob/main/Google%20Sheets%20Integration%20Monday.js)
+## [Confira o script clikando aqui!](https://github.com/MarcosQB/-Integrating-Google-Sheets-with-Monday.com/blob/main/Google%20Sheets%20Integration%20Monday.js)
+
+#### Segue um auxilio visual para compreender melhor a solução:
+<a> <img src= 'https://user-images.githubusercontent.com/117322129/204107625-e6c877b5-7a2a-4e30-a42d-8ae16b69c33c.jpg' width="600" height="500"> </a>
